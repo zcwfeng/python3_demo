@@ -13,8 +13,8 @@ reqheaders={'Content-type':'application/x-www-form-urlencoded',
 
 #定义post的参数
 
-reqdata={'email':'602927062@qq.com',
-'password':'zx2000@tyf',
+reqdata={'email':'xxxxxxx@qq.com',
+'password':'xxxxxxxxx',
 'autoLogin':'on',
 'origURL':'http://zhichang.renren.com/?login_state=rr',
 'domain':'renren.com'

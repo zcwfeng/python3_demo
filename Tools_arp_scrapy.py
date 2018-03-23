@@ -1,5 +1,5 @@
 import os
-import sys
+# import sys
 
 from scapy3k.layers.l2 import getmacbyip
 from scapy3k.all import (Ether,ARP,sendp)

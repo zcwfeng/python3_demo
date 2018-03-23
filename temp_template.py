@@ -50,3 +50,24 @@ from nntplib import *
 
 # 内置函数
 # __import__("Tools_whois")
+
+from scapy3k.layers.l2 import getmacbyip
+
+# try:
+#     #获取目标的mac
+#     tg=getmacbyip("192.168.199.197")
+#     print(tg)
+# except Exception as f:
+#     print('[-]{}'.format(f))
+
+
+class A(object):
+    def __init__(self,name,num):
+        self.name = name
+        self.num = num
+
+    def displayName(self):
+        print(self.name)
+
+
+print([int for i in range(0,6)])

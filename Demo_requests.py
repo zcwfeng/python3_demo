@@ -20,7 +20,7 @@ import requests
 # print(r.text)
 
 
-# r = requests.post('https://accounts.douban.com/login', data={'form_email': 'zcwfeng@126.com', 'form_password': 'qwly@douban@tyf'})
+# r = requests.post('https://accounts.douban.com/login', data={'form_email': 'xxxxxx@126.com', 'form_password': 'xxxxxxx'})
 # print(r.status_code)
 # print(r.text)
 

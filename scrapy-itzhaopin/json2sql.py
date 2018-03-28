@@ -18,5 +18,5 @@ import codecs
 file_object = codecs.open('tencent.sql', 'w' ,"utf-8")
 file_object.write(str)
 file_object.close()
-print "success"
+print("success")
 

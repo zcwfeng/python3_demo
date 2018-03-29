@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f1a8ac9-be8a-4e6e-9847-d53a466bfed2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/tencent.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/pipelines.py" afterPath="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/spiders/tencent_spider.py" afterPath="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/spiders/tencent_spider.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapy-itzhaopin/json2sql.py" afterPath="$PROJECT_DIR$/scrapy-itzhaopin/json2sql.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapy-itzhaopin/tencent.sql" afterPath="$PROJECT_DIR$/scrapy-itzhaopin/tencent.sql" />
-    </list>
+    <list default="true" id="3f1a8ac9-be8a-4e6e-9847-d53a466bfed2" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,11 +60,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tencent.sql" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tencent.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/tencent.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1598">
               <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo_class.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Demo_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="62" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -715,13 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="62" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Demo_optparser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -992,6 +987,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1598">
           <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="62" selection-end-column="47" />
           <folding />
         </state>
       </provider>

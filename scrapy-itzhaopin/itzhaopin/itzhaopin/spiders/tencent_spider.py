@@ -38,7 +38,7 @@ class TencentSpider(CrawlSpider):
             item = TencentItem()
             item['name'] = site.css('.l.square a').xpath('text()').extract()[0]
             relative_url = site.css('.l.square a').xpath('@href').extract()[0]
-            item['detailLink'] = urljoin_rfc(base_url, relative_url)
+            # item['detailLink'] = urljoin_rfc(base_url, relative_url)
             item['catalog'] = site.css('tr > td:nth-child(2)::text').extract()[0]
             item['workLocation'] = site.css('tr > td:nth-child(4)::text').extract()[0]
             item['recruitNumber'] = site.css('tr > td:nth-child(3)::text').extract()[0]
@@ -51,7 +51,7 @@ class TencentSpider(CrawlSpider):
             item = TencentItem()
             item['name'] = site.css('.l.square a').xpath('text()').extract()[0]
             relative_url = site.css('.l.square a').xpath('@href').extract()[0]
-            item['detailLink'] = urljoin_rfc(base_url, relative_url)
+            # item['detailLink'] = urljoin_rfc(base_url, relative_url)
             item['catalog'] = site.css('tr > td:nth-child(2)::text').extract()[0]
             item['workLocation'] = site.css('tr > td:nth-child(4)::text').extract()[0]
             item['recruitNumber'] = site.css('tr > td:nth-child(3)::text').extract()[0]

@@ -12,11 +12,10 @@ from scrapy.utils.response import get_base_url
 from scrapy.utils.url import urljoin_rfc
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor  as sle
-
-
+import codecs
 from itzhaopin.items import TencentItem
-import logging
 
+from scrapy.utils.log import logger as logging
 
 
 class TencentSpider(CrawlSpider):
@@ -33,12 +32,14 @@ class TencentSpider(CrawlSpider):
         items = []
         sel = Selector(response)
         base_url = get_base_url(response)
+        logging.info("url------baseurl:" + base_url)
         sites_even = sel.css('table.tablelist tr.even')
         for site in sites_even:
             item = TencentItem()
+            logging.info("url---even---baseurl:" + base_url)
             item['name'] = site.css('.l.square a').xpath('text()').extract()[0]
             relative_url = site.css('.l.square a').xpath('@href').extract()[0]
-            # item['detailLink'] = urljoin_rfc(base_url, relative_url)
+            item['detailLink'] = codecs.decode(urljoin_rfc(base_url, relative_url),"utf-8")
             item['catalog'] = site.css('tr > td:nth-child(2)::text').extract()[0]
             item['workLocation'] = site.css('tr > td:nth-child(4)::text').extract()[0]
             item['recruitNumber'] = site.css('tr > td:nth-child(3)::text').extract()[0]
@@ -49,9 +50,10 @@ class TencentSpider(CrawlSpider):
         sites_odd = sel.css('table.tablelist tr.odd')
         for site in sites_odd:
             item = TencentItem()
+            logging.info("url---odd---baseurl:" + base_url)
             item['name'] = site.css('.l.square a').xpath('text()').extract()[0]
             relative_url = site.css('.l.square a').xpath('@href').extract()[0]
-            # item['detailLink'] = urljoin_rfc(base_url, relative_url)
+            item['detailLink'] = codecs.decode(urljoin_rfc(base_url, relative_url),"utf-8")
             item['catalog'] = site.css('tr > td:nth-child(2)::text').extract()[0]
             item['workLocation'] = site.css('tr > td:nth-child(4)::text').extract()[0]
             item['recruitNumber'] = site.css('tr > td:nth-child(3)::text').extract()[0]

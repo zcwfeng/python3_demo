@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f1a8ac9-be8a-4e6e-9847-d53a466bfed2" name="Default" comment="" />
+    <list default="true" id="3f1a8ac9-be8a-4e6e-9847-d53a466bfed2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/spiders/tencent_spider.py" afterPath="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/spiders/tencent_spider.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/tencent.json" afterPath="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/tencent.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapy-itzhaopin/json2sql.py" afterPath="$PROJECT_DIR$/scrapy-itzhaopin/json2sql.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapy-itzhaopin/tencent.sql" afterPath="$PROJECT_DIR$/scrapy-itzhaopin/tencent.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp_template.py" afterPath="$PROJECT_DIR$/temp_template.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,23 +25,8 @@
         <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/json2sql.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="124" lean-forward="false" selection-start-line="15" selection-start-column="124" selection-end-line="15" selection-end-column="124" />
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
             </state>
           </provider>
         </entry>
@@ -63,18 +54,28 @@
       <file leaf-file-name="tencent.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/tencent.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1598">
-              <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo_class.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo_class.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="62" selection-end-column="47" />
+            <state relative-caret-position="340">
+              <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -95,8 +96,8 @@
       <file leaf-file-name="tencent.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/tencent.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="104" lean-forward="false" selection-start-line="16" selection-start-column="104" selection-end-line="16" selection-end-column="104" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,8 +106,8 @@
       <file leaf-file-name="tencent_spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/spiders/tencent_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="54" column="70" lean-forward="false" selection-start-line="54" selection-start-column="70" selection-end-line="54" selection-end-column="70" />
+            <state relative-caret-position="340">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding>
                 <element signature="e#13#22#0" expanded="true" />
               </folding>
@@ -169,7 +170,6 @@
         <option value="$PROJECT_DIR$/Demo_websocket4.py" />
         <option value="$PROJECT_DIR$/Demo_websocket5.py" />
         <option value="$PROJECT_DIR$/Demo_websocket6.py" />
-        <option value="$PROJECT_DIR$/temp_template.py" />
         <option value="$PROJECT_DIR$/Demo_class.py" />
         <option value="$PROJECT_DIR$/Demo_Json.py" />
         <option value="$PROJECT_DIR$/Demo_requests.py" />
@@ -181,10 +181,12 @@
         <option value="$PROJECT_DIR$/Pandas/Demo_panel.py" />
         <option value="$PROJECT_DIR$/Demo_htmlparser.py" />
         <option value="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/items.py" />
-        <option value="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/spiders/tencent_spider.py" />
         <option value="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/pipelines.py" />
-        <option value="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/tencent.json" />
+        <option value="$PROJECT_DIR$/temp_template.py" />
+        <option value="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/spiders/tencent_spider.py" />
         <option value="$PROJECT_DIR$/scrapy-itzhaopin/json2sql.py" />
+        <option value="$PROJECT_DIR$/scrapy-itzhaopin/tencent.sql" />
+        <option value="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/tencent.json" />
       </list>
     </option>
   </component>
@@ -218,6 +220,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python3_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python3_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python3_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -337,23 +353,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.json2sql">
-    <configuration default="false" name="Demo_dataframe" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python3_demo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas/Demo_dataframe.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="Demo_panel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -418,6 +417,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python3_demo" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo_htmlparser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="temp_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python3_demo" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp_template.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -570,19 +586,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Demo_dataframe" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Demo_panel" />
-      <item index="2" class="java.lang.String" itemvalue="Python.json2sql" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tencent_spider" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Demo_htmlparser" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Demo_panel" />
+      <item index="1" class="java.lang.String" itemvalue="Python.json2sql" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tencent_spider" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Demo_htmlparser" />
+      <item index="4" class="java.lang.String" itemvalue="Python.temp_template" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.json2sql" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Demo_htmlparser" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tencent_spider" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Demo_panel" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Demo_dataframe" />
+        <item index="1" class="java.lang.String" itemvalue="Python.temp_template" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Demo_htmlparser" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tencent_spider" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Demo_panel" />
       </list>
     </recent_temporary>
   </component>
@@ -619,27 +635,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tools_md5_en_de.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools_dnsquery_dnsknife.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/websocket/_core.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="478" column="63" lean-forward="true" selection-start-line="478" selection-start-column="63" selection-end-line="478" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/lib/python3.6/site-packages/websocket/_http.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
@@ -742,13 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -871,13 +859,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmEdu3.5/python_stubs/-1862583785/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -931,21 +912,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/w3lib/url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="559" column="4" lean-forward="false" selection-start-line="559" selection-start-column="4" selection-end-line="559" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="76" column="15" lean-forward="true" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
+          <folding>
+            <element signature="e#22#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/scrapy/utils/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/spiders/tencent_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="54" column="70" lean-forward="false" selection-start-line="54" selection-start-column="70" selection-end-line="54" selection-end-column="70" />
-          <folding>
-            <element signature="e#13#22#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -959,7 +980,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/scrapy.cfg">
+    <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/spiders/tencent_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/tencent.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -967,34 +998,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/tencent.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="104" lean-forward="false" selection-start-line="16" selection-start-column="104" selection-end-line="16" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/json2sql.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="124" lean-forward="false" selection-start-line="15" selection-start-column="124" selection-end-line="15" selection-end-column="124" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/tencent.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1598">
-          <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo_class.py">
+    <entry file="file://$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="62" selection-end-column="47" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

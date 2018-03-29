@@ -61,13 +61,18 @@ from scapy3k.layers.l2 import getmacbyip
 #     print('[-]{}'.format(f))
 
 
-class A(object):
-    def __init__(self,name,num):
-        self.name = name
-        self.num = num
+# class A(object):
+#     def __init__(self,name,num):
+#         self.name = name
+#         self.num = num
+#
+#     def displayName(self):
+#         print(self.name)
+#
+#
+# print([int for i in range(0,6)])
 
-    def displayName(self):
-        print(self.name)
 
-
-print([int for i in range(0,6)])
+from scrapy.utils.url import urljoin_rfc
+p  = urljoin_rfc("http://test","ffff","utf-8")
+print(p)

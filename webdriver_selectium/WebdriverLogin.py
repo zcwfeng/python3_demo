@@ -4,7 +4,7 @@ import requests
 # https://npm.taobao.org/mirrors/chromedriver/2.37/
 # 下载最新 https://npm.taobao.org/mirrors/chromedriver/
 #sudo python -m pip install selenium
-chromePath = r'/Users/zcw/dev/python/hack_chromedriver/chromedriver'
+chromePath = r'/Users/xxxxxx/xxxx/python/hack_chromedriver/chromedriver'
 
 wd = webdriver.Chrome(executable_path= chromePath)
 

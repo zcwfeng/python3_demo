@@ -57,3 +57,17 @@ for t in range(4):
 image = image.filter(ImageFilter.BLUR)
 image.save('code.jpg', 'jpeg')
 
+#####
+
+from befh.exch_bittrex import ExchGwApiBittrex as Feed
+from befh.instrument import Instrument
+instmt = Instrument(exchange_name="Bittrex",
+                        instmt_name="LTC/BTC",
+                        instmt_code="BTC-LTC")
+
+# Get the order book depth
+depth = Feed.get_order_book(instmt)
+
+# Get the trades
+trades = Feed.get_trades(instmt)
+

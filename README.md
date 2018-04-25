@@ -24,3 +24,15 @@ http://www.xicidaili.com/nt/
 - opencv
 > http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection
 
+# 工具总结
+
+> ipynb 文件很好奇,那么你用下面的方式就比较舒服了
+
+通过安装ipython 和jupyter
+安装命令如下:
+
+```
+sudo pip install ipython --upgrade
+sudo pip install jupyter
+```
+接下来只需要在终端中输入:`jupyter notebook`

@@ -17,3 +17,10 @@ http://www.xicidaili.com/nt/
 * IP 扫描
 * 服务其定位获取服务器信息
 * Scrapy-itzhaopin  抓取腾讯的招聘信息入库,或者json文件
+
+
+# 参考文章
+
+- opencv
+> http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection
+

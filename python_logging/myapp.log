@@ -1,0 +1,3 @@
+Mon, 23 Apr 2018 14:48:49 Demo_logger.py[line:14] DEBUG This is debug message
+Mon, 23 Apr 2018 14:48:49 Demo_logger.py[line:15] INFO This is info message
+Mon, 23 Apr 2018 14:48:49 Demo_logger.py[line:16] WARNING This is warning message

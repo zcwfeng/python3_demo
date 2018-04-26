@@ -2,282 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f1a8ac9-be8a-4e6e-9847-d53a466bfed2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon20x20@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon20x20@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon20x20@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon20x20~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon29x29@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon29x29@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon29x29@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon29x29~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon40x40@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon40x40@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon40x40@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon40x40~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon60x60@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon60x60@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon76x76@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon76x76~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/AppIcon83.5x83.5@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Assets.car" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/DazFire.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/EnglishLearner" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/AFNetworking.framework/AFNetworking" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/AFNetworking.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/AFNetworking.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/Alamofire.framework/Alamofire" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/Alamofire.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/Alamofire.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/Bolts.framework/Bolts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/Bolts.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/Bolts.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/EasyAnimation.framework/EasyAnimation" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/EasyAnimation.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/EasyAnimation.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FBSDKCoreKit" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ar.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/bn.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/cs.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/da.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/de.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/el.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/en.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/en_GB.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/es.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/es_ES.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/fi.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/fil.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/fr.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/gu.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/he.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/hi.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/hr.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/hu.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/id.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/it.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ja.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/kn.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ko.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ml.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/mr.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ms.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/nb.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/nl.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/pa.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/pl.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/pt.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/pt_PT.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ru.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/sk.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/sv.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ta.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/te.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/th.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/tr.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/vi.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/zh.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/zh_Hant_HK.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/zh_Hant_TW.lproj/FacebookSDK.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKCoreKit.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKLoginKit.framework/FBSDKLoginKit" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKLoginKit.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKLoginKit.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKShareKit.framework/FBSDKShareKit" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKShareKit.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FBSDKShareKit.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FMDB.framework/FMDB" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FMDB.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FMDB.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FacebookCore.framework/FacebookCore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FacebookCore.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FacebookCore.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FacebookLogin.framework/FacebookLogin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FacebookLogin.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FacebookLogin.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FacebookShare.framework/FacebookShare" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FacebookShare.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/FacebookShare.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/MBProgressHUD.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/MBProgressHUD.framework/MBProgressHUD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/MJRefresh.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/MJRefresh.framework/MJRefresh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/MJRefresh.framework/MJRefresh.bundle/arrow@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/MJRefresh.framework/MJRefresh.bundle/en.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hans.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hant.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/MJRefresh.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/Masonry.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/Masonry.framework/Masonry" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/Masonry.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/SDWebImage.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/SDWebImage.framework/SDWebImage" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/SDWebImage.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/SnapKit.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/SnapKit.framework/SnapKit" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/SnapKit.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/SwiftyJSON.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/SwiftyJSON.framework/SwiftyJSON" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/SwiftyStoreKit.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/SwiftyStoreKit.framework/SwiftyStoreKit" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/SwiftyStoreKit.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/YTKNetwork.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/YTKNetwork.framework/YTKNetwork" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/YTKNetwork.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/YYKit.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/YYKit.framework/YYKit" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/YYKit.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftAVFoundation.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftCore.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftCoreAudio.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftCoreFoundation.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftCoreGraphics.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftCoreImage.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftCoreMedia.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftDarwin.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftDispatch.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftFoundation.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftMetal.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftObjectiveC.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftQuartzCore.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftSwiftOnoneSupport.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftUIKit.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftos.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Frameworks/libswiftsimd.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/LCTabBarBadge@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/MBHUD_Error@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/MBHUD_Error@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/MBHUD_Info@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/MBHUD_Info@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/MBHUD_Success@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/MBHUD_Success@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/MBHUD_Warn@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/MBHUD_Warn@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/DayWordsVC.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/DayWordsVC.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/LearningViewController.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/LearningViewController.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/PSHomeViewVC.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/PSHomeViewVC.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/SC9-Zp-6hS-view-V4S-Sf-SN9.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/SC9-Zp-6hS-view-V4S-Sf-SN9.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/SettingsViewController.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/SettingsViewController.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/tyu-0R-BBk-view-BFz-Wk-eni.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/tyu-0R-BBk-view-BFz-Wk-eni.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/w7A-83-bVS-view-GrX-Fy-bx1.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/w7A-83-bVS-view-GrX-Fy-bx1.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/yJj-AO-8Gp-view-zYO-d2-tna.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Main.storyboardc/yJj-AO-8Gp-view-zYO-d2-tna.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/6Yg-NO-vta-view-wVz-1P-iKr.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/6Yg-NO-vta-view-wVz-1P-iKr.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/7WK-6z-6wA-view-rA0-av-gdi.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/7WK-6z-6wA-view-rA0-av-gdi.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/FeedBackVC.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/FeedBackVC.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/H8e-P6-PqM-view-hDm-oA-YhK.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/H8e-P6-PqM-view-hDm-oA-YhK.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/HP3-qn-b2s-view-MmY-cj-Z9x.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/HP3-qn-b2s-view-MmY-cj-Z9x.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/LevelSelectNav.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/LevelSelectNav.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/LevelSelectVC.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/LevelSelectVC.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/NotificationSetVC.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/NotificationSetVC.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/PrivacyPolicy.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/PrivacyPolicy.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/R7z-vP-ZvX-view-C0W-K0-RxI.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/R7z-vP-ZvX-view-C0W-K0-RxI.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/SubscriptionVC.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/SubscriptionVC.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/TermsVC.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/TermsVC.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/WordCountSelectVC.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/WordCountSelectVC.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/ZKQ-2L-YxJ-view-ae0-sS-h4z.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/ZKQ-2L-YxJ-view-ae0-sS-h4z.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/wH7-gv-nb4-view-F8e-C0-v7k.nib/objects-11.0+.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/Settings.storyboardc/wH7-gv-nb4-view-F8e-C0-v7k.nib/runtime.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/ar.lproj/InfoPlist.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/ar.lproj/LaunchScreen.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/ar.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/back_icon@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/back_icon@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/close_icon@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/close_icon@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/embedded.mobileprovision" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/en.lproj/InfoPlist.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/en.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/es.lproj/InfoPlist.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/es.lproj/LaunchScreen.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/es.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_discovery.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_discovery_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_homepage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_homepage@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_homepage_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_homepage_selected@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_merchant_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_merchant_normal@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_merchant_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_merchant_selected@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_mine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_mine@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_mine_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_mine_selected@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_misc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_misc@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_misc_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_misc_selected@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_nearby.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_nearby_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_onsite@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_onsite_new@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/icon_tabbar_onsite_selected@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/libswiftRemoteMirror.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/localizable-Arabic.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/localizable-English.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/localizable-Russian.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/localizable-Spanish.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/localizable-Thai.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/localizable-Vietnamese.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/localizable-ja.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/localizable-ko.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/localizable-zhCN.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/localizable-zhTW.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/privacy_policy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/purchase_privacy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/rain.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/ru.lproj/InfoPlist.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/ru.lproj/LaunchScreen.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/ru.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/snow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/term_of_service.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/th.lproj/InfoPlist.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/th.lproj/LaunchScreen.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/th.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/vi.lproj/InfoPlist.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/vi.lproj/LaunchScreen.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/vi.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/win.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/words.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/words_dictionary.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/zh-Hans.lproj/InfoPlist.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/zh-Hans.lproj/LaunchScreen.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/zh-Hans.lproj/Localizable.strings" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ptyon_unittest/Demo_appium_unit.py" afterPath="$PROJECT_DIR$/ptyon_unittest/Demo_appium_unit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/av_process/demo.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/av_process/Demo_eyed.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/av_process/Demo_wave.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/av_process/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -291,11 +21,11 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="face_detection.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/face_detection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
+            <state relative-caret-position="1564">
               <caret line="94" column="32" lean-forward="false" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
               <folding>
                 <element signature="e#93#102#0" expanded="true" />
@@ -307,8 +37,8 @@
       <file leaf-file-name="crawler_selector_js2xml.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler_demos/crawler_selector_js2xml.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+            <state relative-caret-position="342">
+              <caret line="55" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
                 <element signature="e#16#31#0" expanded="true" />
               </folding>
@@ -316,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo_appium_unit.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Demo_appium_unit.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ptyon_unittest/Demo_appium_unit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="323">
+              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding>
                 <element signature="e#37#52#0" expanded="true" />
               </folding>
@@ -328,10 +58,57 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Demo_eyed.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/av_process/Demo_eyed.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python3.6/site-packages/eyed3/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo_wave.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/av_process/Demo_wave.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/av_process/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="51">
+                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="haarcascade_eye.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/haarcascade_eye.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1224">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -376,9 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/temp_template.py" />
-        <option value="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/itzhaopin/spiders/tencent_spider.py" />
-        <option value="$PROJECT_DIR$/scrapy-itzhaopin/json2sql.py" />
         <option value="$PROJECT_DIR$/scrapy-itzhaopin/tencent.sql" />
         <option value="$PROJECT_DIR$/scrapy-itzhaopin/itzhaopin/tencent.json" />
         <option value="$PROJECT_DIR$/Demo_mysql.py" />
@@ -427,11 +201,14 @@
         <option value="$PROJECT_DIR$/crawler_demos/crawler_selector_js2xml.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/ptyon_unittest/Demo_appium_unit.py" />
+        <option value="$PROJECT_DIR$/av_process/Demo_eyed.py" />
+        <option value="$PROJECT_DIR$/av_process/Demo_wave.py" />
+        <option value="$PROJECT_DIR$/av_process/readme.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="18" />
+    <option name="x" value="32" />
     <option name="y" value="23" />
     <option name="width" value="1398" />
     <option name="height" value="877" />
@@ -451,6 +228,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -462,14 +240,12 @@
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="python3_demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemId" value="&lt; Python 3.6.5 (/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="python3_demo" />
+              <option name="myItemId" value="site-packages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -479,11 +255,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="python3_demo" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.5 (/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ptyon_unittest" />
+              <option name="myItemId" value="eyed3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python3_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.5 (/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python3_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python3_demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -501,9 +309,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python3_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python3_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="av_process" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -518,60 +339,21 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/test" />
-      <recent name="$PROJECT_DIR$/ptyon_unittest" />
-      <recent name="$PROJECT_DIR$/classmethod_staticmethod_method" />
-      <recent name="$PROJECT_DIR$/TerminalClient" />
-      <recent name="$PROJECT_DIR$/ftp" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ptyon_unittest" />
       <recent name="$PROJECT_DIR$/ftp" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/av_process" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/ptyon_unittest" />
+      <recent name="$PROJECT_DIR$/classmethod_staticmethod_method" />
+      <recent name="$PROJECT_DIR$/TerminalClient" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.crawler_selector_js2xml">
+  <component name="RunManager" selected="Python.Demo_wave">
     <configuration default="false" name="Unittests in SimpleIOSTests (4)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ptyon_unittest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python3_demo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ptyon_unittest/Demo_helloworld.py" />
-      <option name="CLASS_NAME" value="SimpleIOSTests" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Demo_appium_unit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ptyon_unittest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python3_demo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ptyon_unittest/Demo_appium_unit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in SimpleIOSTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -623,6 +405,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python3_demo" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler_demos/crawler_selector_js2xml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Demo_eyed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/av_process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python3_demo" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/av_process/Demo_eyed.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Demo_wave" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/av_process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python3_demo" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/av_process/Demo_wave.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -812,18 +628,18 @@
       <item index="0" class="java.lang.String" itemvalue="Python.TerminalInteraction" />
       <item index="1" class="java.lang.String" itemvalue="Python.Demo" />
       <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in SimpleIOSTests (4)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Demo_appium_unit" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in SimpleIOSTests" />
-      <item index="5" class="java.lang.String" itemvalue="Python.face_detection" />
-      <item index="6" class="java.lang.String" itemvalue="Python.crawler_selector_js2xml" />
+      <item index="3" class="java.lang.String" itemvalue="Python.face_detection" />
+      <item index="4" class="java.lang.String" itemvalue="Python.crawler_selector_js2xml" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Demo_eyed" />
+      <item index="6" class="java.lang.String" itemvalue="Python.Demo_wave" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.crawler_selector_js2xml" />
-        <item index="1" class="java.lang.String" itemvalue="Python.face_detection" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in SimpleIOSTests (4)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Demo_appium_unit" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in SimpleIOSTests" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Demo_wave" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Demo_eyed" />
+        <item index="2" class="java.lang.String" itemvalue="Python.crawler_selector_js2xml" />
+        <item index="3" class="java.lang.String" itemvalue="Python.face_detection" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in SimpleIOSTests (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -863,7 +679,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="23" width="1398" height="877" extended-state="0" />
+    <frame x="32" y="23" width="1398" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3006536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -871,7 +687,7 @@
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14191853" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285151" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13140604" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31668857" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -918,46 +734,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/third_lib/bitcoinexchangefh.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="101" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="101" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_logging/myapp.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_logging/test.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_logging/Demo_formatter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_logging/Demo_handler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1070,13 +846,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/PkgInfo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ptyon_unittest/EnglishLearner.app/PkgInfo" />
     <entry file="file:///usr/local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
@@ -1174,65 +944,32 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/drawsmiles_obama.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/drawsmiles_obama.jpg" />
     <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/haarcascade_eye.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1224">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/obama_faces/0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/obama_faces/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/obama_faces/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/obama_faces/5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/obama_faces/9.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/obama_faces/0.jpg" />
+    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/obama_faces/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/obama_faces/2.jpg" />
+    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/obama_faces/5.jpg" />
+    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/obama_faces/9.jpg" />
     <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/haarcascade_frontalface_default.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3621">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/drawfaces_obama.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/draweyes_obama.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/drawfaces_obama.jpg" />
+    <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/draweyes_obama.jpg" />
     <entry file="file://$PROJECT_DIR$/third_lib/OpenCV-demo/FaceDetection_python-opencv/face_detection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
+        <state relative-caret-position="1564">
           <caret line="94" column="32" lean-forward="false" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
           <folding>
             <element signature="e#93#102#0" expanded="true" />
@@ -1258,23 +995,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ptyon_unittest/Demo_appium_unit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#37#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/eyed3/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/av_process/Demo_eyed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/eyed3/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/crawler_demos/crawler_selector_js2xml.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        <state relative-caret-position="342">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
             <element signature="e#16#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ptyon_unittest/Demo_appium_unit.py">
+    <entry file="file://$PROJECT_DIR$/av_process/Demo_wave.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="407">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
-            <element signature="e#37#52#0" expanded="true" />
+            <element signature="e#0#17#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/av_process/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>

@@ -1,6 +1,33 @@
 # python3_demo
 python 基础性demo
 
+python print 打印技巧
+
+- 显示颜色格式：\033[显示方式;字体色;背景色m......[\033[0m]
+
+```
+---
+字体色     |       背景色     |      颜色描述
+-------------------------------------------
+30        |        40       |       黑色
+31        |        41       |       红色
+32        |        42       |       绿色
+33        |        43       |       黃色
+34        |        44       |       蓝色
+35        |        45       |       紫红色
+36        |        46       |       青蓝色
+37        |        47       |       白色
+-------------------------------------------
+显示方式     |      效果
+-------------------------------
+0           |     终端默认设置
+1           |     高亮显示
+4           |     使用下划线
+5           |     闪烁
+7           |     反白显示
+8           |     不可见
+-------------------------------
+```
 不定期更新
 
 # 使用地址
@@ -17,14 +44,27 @@ http://www.xicidaili.com/nt/
 * IP 扫描
 * 服务其定位获取服务器信息
 * Scrapy-itzhaopin  抓取腾讯的招聘信息入库,或者json文件
+* you-get 厉害 可以和它作对比.http://www.flvcd.com/
 
 
 # 参考文章
 
 - opencv
+
 > http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection
 
 # 工具总结
+
+> you-get
+
+--------------------------------------------------------------------------------
+
+ https://github.com/soimort/you-get
+
+ https://you-get.org/
+
+下载神器
+
 
 > ipynb 文件很好奇,那么你用下面的方式就比较舒服了
 

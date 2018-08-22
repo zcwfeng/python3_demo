@@ -72,8 +72,14 @@ words=[
 # "Skip",
 # "Move block to fill up the board",
 # "This is Fake level.Beware of the tricks of the extra blocks!",
-"Please choose the start level or tutorial"
-
+# "Please choose the start level or tutorial",
+# "Green button eliminates green obstacles.",
+# "Cover red button, trigger red obstacle.",
+# "Give priority to another piece of blocks.",
+# "The location of obstacles can not be placed in hexa block, Remove blocks covered by buttons.",
+# "Try the cover button again.",
+# "Put another piece away.",
+"This is fake level.Eliminating interference blocks with magnifying glass."
 ];
 
 

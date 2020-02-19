@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f1a8ac9-be8a-4e6e-9847-d53a466bfed2" name="Default" comment="网络经营许可证,AccidentalDiscovery 意外发现的文件等资源">
-      <change afterPath="$PROJECT_DIR$/test/test_pts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_tkiner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_url.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_matplotlib/Hello_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python3_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python3_demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_collections.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,97 +14,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-912685975">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="19" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.2" value="4" />
-          <entry key="project.open.time.3" value="9" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="19" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="69" />
-          <entry key="txt" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="69" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="3969" />
-          <entry key="txt" value="31" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="3969" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysql/Demo_mysql.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my_sqlalchemy/Test_sqlalchemy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="e#6#58#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/testPass.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <marker date="1559717802213" expanded="true" signature="72:77" ph="..." />
-                <marker date="1559717802213" expanded="true" signature="412:650" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/test_url.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test_import.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -162,152 +68,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/av_process/Demo_pygame.py" />
-        <option value="$PROJECT_DIR$/av_process/Demo_pyhub.py" />
-        <option value="$PROJECT_DIR$/av_process/readme.md" />
-        <option value="$PROJECT_DIR$/av_process/Demo_pyaudio.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/python_print/PythonPrintConfig.py" />
-        <option value="$PROJECT_DIR$/Tools_GenerateIDCard.py" />
-        <option value="$PROJECT_DIR$/webdriver_selectium/WebdriverIDCardSearch.py" />
-        <option value="$PROJECT_DIR$/python_cookbook/python_datastruct/DataStruct1.py" />
-        <option value="$PROJECT_DIR$/python_generator/fab.py" />
-        <option value="$PROJECT_DIR$/tensorflow/KerasDemo.py" />
-        <option value="$PROJECT_DIR$/tensorflow/Colaboratory/Demo.py" />
-        <option value="$PROJECT_DIR$/socket/pexpect.py" />
-        <option value="$PROJECT_DIR$/socket/nmap_scan.py" />
-        <option value="$PROJECT_DIR$/socket/tcpclient.py" />
-        <option value="$PROJECT_DIR$/python_socket/tcpclient.py" />
-        <option value="$PROJECT_DIR$/python_socket/pexpect.py" />
-        <option value="$PROJECT_DIR$/matplotlib/yahoo_data.py" />
-        <option value="$PROJECT_DIR$/python_matplotlib/yahoo_data.py" />
-        <option value="$PROJECT_DIR$/Pandas/google_finance.py" />
-        <option value="$PROJECT_DIR$/googlefinance/demo_googlefinance.py" />
-        <option value="$PROJECT_DIR$/Demo/finance_demo.py" />
-        <option value="$PROJECT_DIR$/Demo/demo_quicksort.py" />
-        <option value="$PROJECT_DIR$/test/test_import.py" />
-        <option value="$PROJECT_DIR$/custom_tools/ZCWTools.py" />
-        <option value="$PROJECT_DIR$/python_matplotlib/demo_1.py" />
-        <option value="$PROJECT_DIR$/python_matplotlib/demo_2_3d.py" />
-        <option value="$PROJECT_DIR$/python_matplotlib/demo_3.py" />
-        <option value="$PROJECT_DIR$/python_matplotlib/demo_5.py" />
-        <option value="$PROJECT_DIR$/python_matplotlib/demo_4_3d.py" />
-        <option value="$PROJECT_DIR$/python_matplotlib/demo_6_animation.py" />
-        <option value="$PROJECT_DIR$/tensorflow/input_data.py" />
-        <option value="$PROJECT_DIR$/tensorflow/examples/input_data.py" />
-        <option value="$PROJECT_DIR$/tensorflow/examples/mnist_dataset_intro.py" />
-        <option value="$PROJECT_DIR$/python_base64/Email.py" />
-        <option value="$PROJECT_DIR$/python_htmlparser/Demo_htmlparser.py" />
-        <option value="$PROJECT_DIR$/python_translate/TranslateGoogleTest1.py" />
-        <option value="$PROJECT_DIR$/python_translate/TranslateBaiduTest1.py" />
-        <option value="$PROJECT_DIR$/python_translate/TranslateBaidu.py" />
-        <option value="$PROJECT_DIR$/python_translate/baiduPage.txt" />
-        <option value="$PROJECT_DIR$/Numpy/Demo_study.py" />
-        <option value="$PROJECT_DIR$/test/test_transflow.py" />
-        <option value="$PROJECT_DIR$/test/Tree.py" />
-        <option value="$PROJECT_DIR$/my_sqlite/TestSqlite.py" />
-        <option value="$PROJECT_DIR$/mysql/Demo_mysql.py" />
-        <option value="$PROJECT_DIR$/my_sqlalchemy/Test_sqlalchemy.py" />
-        <option value="$PROJECT_DIR$/test/testPass.py" />
-        <option value="$PROJECT_DIR$/test/test_tkiner.py" />
-        <option value="$PROJECT_DIR$/test/test_pts.py" />
-        <option value="$PROJECT_DIR$/test/test_collections.py" />
-        <option value="$PROJECT_DIR$/test/test_url.py" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1811" />
     <option name="y" value="78" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <autoscrollFromSource ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="python3_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python3_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python3_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python3_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="my_sqlalchemy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python3_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python3_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python3_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python3_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python3_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="python3_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.5 (/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="python3_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.5 (/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="1025205290" type="70582d5e:PySkeletonsNode" />
-            </path>
-            <path>
-              <item name="python3_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.5 (/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python3_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.5 (/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="tkinter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python3_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.5 (/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python3_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.5 (/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="pyshorteners" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python3_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.5 (/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="pyshorteners" type="462c0819:PsiDirectoryNode" />
-              <item name="shorteners" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Course" />
-    </panes>
+  <component name="ProjectId" id="1Y0bEnyXPfdUwCZSxh2fhsGeDDn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -337,19 +108,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.test_url">
+  <component name="RunManager" selected="Python.Hello_1">
     <configuration default="true" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="debugOptions">
         <ErlangDebugOptions>
@@ -433,6 +192,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Hello_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_matplotlib/Hello_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="TerminalInteraction" type="PythonConfigurationType" factoryName="Python">
       <module name="python3_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -447,27 +227,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TerminalClient/TerminalInteraction.py" />
       <option name="PARAMETERS" value="--version" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="testPass" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python3_demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/testPass.py" />
-      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -562,24 +321,45 @@
     <list>
       <item itemvalue="Python.TerminalInteraction" />
       <item itemvalue="Python.Demo" />
-      <item itemvalue="Python.testPass" />
       <item itemvalue="Python.test_collections" />
       <item itemvalue="Python.test_pts" />
       <item itemvalue="Python.test_tkiner" />
       <item itemvalue="Python.test_url" />
+      <item itemvalue="Python.Hello_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Hello_1" />
         <item itemvalue="Python.test_url" />
         <item itemvalue="Python.test_collections" />
         <item itemvalue="Python.test_pts" />
         <item itemvalue="Python.test_tkiner" />
-        <item itemvalue="Python.testPass" />
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1582082350312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582082350312</updated>
+    </task>
+    <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="Unittests_in_SimpleIOSTests - 2018.04.25 at 16h 38m 07s.xml">
@@ -613,28 +393,6 @@
       <configuration name="Unittests in SimpleIOSTests (4)" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-1811" y="78" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29175475" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="DB Browser" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32720104" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3608924" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39808917" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32677165" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32677165" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
       <list>
@@ -651,12 +409,6 @@
         <entry key="1">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
@@ -671,12 +423,6 @@
         <entry key="2">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
@@ -691,12 +437,6 @@
         <entry key="3">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
@@ -711,12 +451,6 @@
         <entry key="4">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
@@ -731,12 +465,6 @@
         <entry key="5">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
@@ -751,12 +479,6 @@
         <entry key="6">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
@@ -771,20 +493,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection>
-                  <UserGroup>
-                    <option name="users">
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </option>
-                  </UserGroup>
-                </collection>
-              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -796,26 +504,54 @@
                   </entry>
                 </map>
               </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="网络经营许可证,AccidentalDiscovery 意外发现的文件等资源" />
     <option name="LAST_COMMIT_MESSAGE" value="网络经营许可证,AccidentalDiscovery 意外发现的文件等资源" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="429" y="55" key="#Hello_1" timestamp="1582082535187">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="429" y="55" key="#Hello_1/0.23.1440.823@0.23.1440.823" timestamp="1582082535187" />
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582082520200">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1582082520200" />
+    <state width="1379" height="221" key="GridCell.Tab.0.bottom" timestamp="1582084657480">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1379" height="221" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1582084432514" />
+    <state width="1379" height="221" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1582084657480" />
+    <state width="1379" height="221" key="GridCell.Tab.0.center" timestamp="1582084657479">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1379" height="221" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1582084432514" />
+    <state width="1379" height="221" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1582084657479" />
+    <state width="1379" height="221" key="GridCell.Tab.0.left" timestamp="1582084657478">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1379" height="221" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1582084432513" />
+    <state width="1379" height="221" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1582084657478" />
+    <state width="1379" height="221" key="GridCell.Tab.0.right" timestamp="1582084657479">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1379" height="221" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1582084432514" />
+    <state width="1379" height="221" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1582084657479" />
+    <state x="229" y="73" key="SettingsEditor" timestamp="1582084007915">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="229" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1582084007915" />
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1582082358006">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1582082358006" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -826,312 +562,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Demo_web_loudong.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/4_Utils/tensorboard_basic.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/1_Introduction/helloworld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/1_Introduction/basic_operations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/tensorflow/examples/tutorials/mnist/input_data.py" />
-    <entry file="file:///usr/local/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/KerasDemo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/2_BasicModels/word2vec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/2_BasicModels/random_forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/2_BasicModels/nearest_neighbor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/2_BasicModels/logistic_regression_eager_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/2_BasicModels/logistic_regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/2_BasicModels/linear_regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/autoencoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2227">
-          <caret line="138" column="33" selection-start-line="138" selection-start-column="33" selection-end-line="138" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/bidirectional_rnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/input_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="114" column="47" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/tensorflow/python/framework/constant_op.py" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/1_Introduction/basic_eager_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/Colaboratory/Demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/tensorflow/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/mnist_dataset_intro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/2_BasicModels/gradient_boosted_decision_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/examples/2_BasicModels/kmeans.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/base64.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_translate/baiduPage.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="169" column="5" selection-start-line="169" selection-start-column="5" selection-end-line="169" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_translate/TranslateBaiduTest1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-start-column="2" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_translate/TranslateGoogleTest1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="39" selection-start-line="39" selection-end-line="39" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_htmlparser/Demo_htmlparser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_translate/TranslateBaidu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_socket/demo_websocket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_base64/Email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py" />
-    <entry file="file:///usr/local/lib/python3.6/site-packages/tensorflow/python/ops/variables.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/finance_demo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/Demo_base.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/Demo_study.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Tree.py" />
-    <entry file="file://$PROJECT_DIR$/test/test_transflow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_sqlite/TestSqlite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="554" column="4" selection-start-line="554" selection-start-column="4" selection-end-line="554" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_tkiner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmEdu2018.2/python_stubs/1025205290/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="3593" column="19" lean-forward="true" selection-start-line="3593" selection-start-column="19" selection-end-line="3593" selection-end-column="19" />
-          <folding>
-            <element signature="e#122467#122521#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_import.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/pyshorteners/shorteners/googl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_collections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/Demo_mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/testPass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <marker date="1559717802213" expanded="true" signature="72:77" ph="..." />
-            <marker date="1559717802213" expanded="true" signature="412:650" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_sqlalchemy/Test_sqlalchemy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#6#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_pts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/pyshorteners/shorteners/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="117" column="27" selection-start-line="117" selection-start-column="20" selection-end-line="117" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_url.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

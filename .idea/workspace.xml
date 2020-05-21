@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f1a8ac9-be8a-4e6e-9847-d53a466bfed2" name="Default" comment="网络经营许可证,AccidentalDiscovery 意外发现的文件等资源">
-      <change afterPath="$PROJECT_DIR$/python_postman/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_base64/Base64ToImage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_base64/Image2Base64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_pil/pil_image.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +24,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1811" />
-    <option name="y" value="78" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
   </component>
   <component name="ProjectId" id="1Y0bEnyXPfdUwCZSxh2fhsGeDDn" />
   <component name="ProjectViewState">
@@ -64,7 +60,7 @@
       <recent name="$PROJECT_DIR$/av_process" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.collections_demo1">
+  <component name="RunManager" selected="Python.Image2Base64">
     <configuration default="true" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="debugOptions">
         <ErlangDebugOptions>
@@ -127,6 +123,27 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+    <configuration name="Base64ToImage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_base64" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_base64/Base64ToImage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Demo" type="PythonConfigurationType" factoryName="Python">
       <module name="python3_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,69 +165,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hello_20_divergent_bar_flag" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python3_demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_matplotlib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_matplotlib/Hello_20_divergent_bar_flag.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Hello_23_lollipop_chart" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python3_demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_matplotlib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_matplotlib/Hello_23_lollipop_chart.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Hello_24_dot_plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python3_demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_matplotlib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_matplotlib/Hello_24_dot_plot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Hello_25_slope_chart" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,6 +178,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_matplotlib/Hello_25_slope_chart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Image2Base64" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_base64" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_base64/Image2Base64.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,22 +249,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pil_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_pil" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_pil/pil_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.TerminalInteraction" />
+      <item itemvalue="Python.Base64ToImage" />
       <item itemvalue="Python.Demo" />
-      <item itemvalue="Python.Hello_20_divergent_bar_flag" />
-      <item itemvalue="Python.Hello_23_lollipop_chart" />
-      <item itemvalue="Python.Hello_24_dot_plot" />
       <item itemvalue="Python.Hello_25_slope_chart" />
+      <item itemvalue="Python.Image2Base64" />
+      <item itemvalue="Python.TerminalInteraction" />
       <item itemvalue="Python.collections_demo1" />
+      <item itemvalue="Python.pil_image" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Image2Base64" />
+        <item itemvalue="Python.pil_image" />
+        <item itemvalue="Python.Base64ToImage" />
         <item itemvalue="Python.collections_demo1" />
         <item itemvalue="Python.Hello_25_slope_chart" />
-        <item itemvalue="Python.Hello_24_dot_plot" />
-        <item itemvalue="Python.Hello_23_lollipop_chart" />
-        <item itemvalue="Python.Hello_20_divergent_bar_flag" />
       </list>
     </recent_temporary>
   </component>
@@ -480,61 +476,70 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1582082520200" />
-    <state width="1379" height="218" key="GridCell.Tab.0.bottom" timestamp="1582803276361">
+    <state x="458" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584689413958">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1379" height="221" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1582115275593" />
+    <state x="458" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1584689413958" />
+    <state width="1379" height="218" key="GridCell.Tab.0.bottom" timestamp="1584691743553">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1379" height="218" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1584691743553" />
+    <state width="1379" height="218" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1584690140204" />
     <state width="1379" height="221" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1582115640234" />
     <state width="1379" height="221" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1582111227084" />
     <state width="1379" height="221" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1582084970648" />
     <state width="1379" height="221" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1582086618012" />
     <state width="1379" height="221" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1582085588841" />
     <state width="1379" height="221" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1582085222104" />
-    <state width="1379" height="218" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.814@0.23.1440.814" timestamp="1582795811043" />
+    <state width="1379" height="218" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.814@0.23.1440.814" timestamp="1582803385413" />
     <state width="1379" height="218" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.816@0.23.1440.816" timestamp="1582803276361" />
-    <state width="1379" height="218" key="GridCell.Tab.0.center" timestamp="1582803276360">
+    <state width="1379" height="218" key="GridCell.Tab.0.center" timestamp="1584691743553">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1379" height="221" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1582115275592" />
+    <state width="1379" height="218" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1584691743553" />
+    <state width="1379" height="218" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1584690140204" />
     <state width="1379" height="221" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1582115640233" />
     <state width="1379" height="221" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1582111227083" />
     <state width="1379" height="221" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1582084970647" />
     <state width="1379" height="221" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1582086618012" />
     <state width="1379" height="221" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1582085588841" />
     <state width="1379" height="221" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1582085222103" />
-    <state width="1379" height="218" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.814@0.23.1440.814" timestamp="1582795811043" />
+    <state width="1379" height="218" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.814@0.23.1440.814" timestamp="1582803385411" />
     <state width="1379" height="218" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.816@0.23.1440.816" timestamp="1582803276360" />
-    <state width="1379" height="218" key="GridCell.Tab.0.left" timestamp="1582803276359">
+    <state width="1379" height="218" key="GridCell.Tab.0.left" timestamp="1584691743552">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1379" height="221" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1582115275592" />
+    <state width="1379" height="218" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1584691743552" />
+    <state width="1379" height="218" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1584690140203" />
     <state width="1379" height="221" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1582115640233" />
     <state width="1379" height="221" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1582111227083" />
     <state width="1379" height="221" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1582084970647" />
     <state width="1379" height="221" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1582086618011" />
     <state width="1379" height="221" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1582085588840" />
     <state width="1379" height="221" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1582085222103" />
-    <state width="1379" height="218" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.814@0.23.1440.814" timestamp="1582795811042" />
+    <state width="1379" height="218" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.814@0.23.1440.814" timestamp="1582803385411" />
     <state width="1379" height="218" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.816@0.23.1440.816" timestamp="1582803276359" />
-    <state width="1379" height="218" key="GridCell.Tab.0.right" timestamp="1582803276361">
+    <state width="1379" height="218" key="GridCell.Tab.0.right" timestamp="1584691743553">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1379" height="221" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1582115275592" />
+    <state width="1379" height="218" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1584691743553" />
+    <state width="1379" height="218" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1584690140204" />
     <state width="1379" height="221" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1582115640233" />
     <state width="1379" height="221" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1582111227083" />
     <state width="1379" height="221" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1582084970647" />
     <state width="1379" height="221" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1582086618012" />
     <state width="1379" height="221" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1582085588841" />
     <state width="1379" height="221" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1582085222104" />
-    <state width="1379" height="218" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.814@0.23.1440.814" timestamp="1582795811043" />
+    <state width="1379" height="218" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.814@0.23.1440.814" timestamp="1582803385412" />
     <state width="1379" height="218" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.816@0.23.1440.816" timestamp="1582803276361" />
     <state x="229" y="73" key="SettingsEditor" timestamp="1582084007915">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1582084007915" />
-    <state x="399" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1582794891526">
+    <state x="399" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1584689244088">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
+    <state x="399" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1584689244088" />
     <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1582082358006" />
     <state x="399" y="265" key="com.intellij.ide.util.TipDialog/1440.23.1920.1177/0.23.1440.816@0.23.1440.816" timestamp="1582794891526" />
     <state x="386" y="77" width="667" height="714" key="find.popup" timestamp="1582086377359">
